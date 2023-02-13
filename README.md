@@ -16,7 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto realizado para finalização do modulo css moderno do curso fullstack javascript da onebitcode, projeto tem como finalidade a pratica de layout responsivo, utilizando css flexbox, grid e midia query
+Projeto realizado para finalização do modulo css moderno do curso fullstack javascript da onebitcode, projeto tem como finalidade a pratica de layout responsivo, utilizando css flexbox, grid e midia query.
+
+link para visualização do projeto: https://jcesar03.github.io/FlexGridLayout/
 
 ## memo: Licença
 Esse projeto está sob a licença MIT.
