@@ -5,7 +5,7 @@
 </p>
 <br>
 <p align="center">
-  <img alt="Projeto onebitcode" src="./.github/projeto-onebitcode" width="100%">
+  <img alt="Projeto onebitcode" src="./.github/projeto-onebitcode.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
